@@ -1,0 +1,11 @@
+c:\users\sami\documents\visual studio 2013\Projects\ErasmusProject\ErasmusProject\bin\Debug\ErasmusProject.exe.config
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\bin\Debug\ErasmusProject.exe
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\bin\Debug\ErasmusProject.pdb
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\obj\Debug\ErasmusProject.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\obj\Debug\ErasmusProject.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\obj\Debug\ErasmusProject.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\obj\Debug\ErasmusProject.exe
+C:\Users\Sami\Documents\Visual Studio 2013\Projects\ErasmusProject\ErasmusProject\obj\Debug\ErasmusProject.pdb
+C:\Users\Sami\documents\visual studio 2013\Projects\ErasmusProject\ErasmusProject\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+C:\Users\Sami\documents\visual studio 2013\Projects\ErasmusProject\ErasmusProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+C:\Users\Sami\documents\visual studio 2013\Projects\ErasmusProject\ErasmusProject\obj\Debug\ErasmusProject.ErasmusProject.resources
